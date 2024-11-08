@@ -344,14 +344,14 @@
                <sensor type="depth" name="kinect_sensor">
                     <always_on>true</always_on>
                     <visualize>true</visualize>
-                    <update_rate>20.0</update_rate>
+                    <update_rate>5.0</update_rate>
 
                     <camera>
                          <horizontal_fov>1.047197551</horizontal_fov>
                          <image>
                               <format>R8G8B8</format>
-                              <width>640</width>
-                              <height>480</height>
+                              <width>144</width>
+                              <height>176</height>
                          </image>
                          <clip>
                               <near>0.05</near>
