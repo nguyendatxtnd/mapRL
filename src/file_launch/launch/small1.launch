@@ -3,7 +3,7 @@
   <!-- Pre-order argurments -->
   <arg name="x_pos" default="-2.074768"/>
   <arg name="y_pos" default="-2.013712"/>
-  <arg name="z_pos" default="0.499997"/>
+  <arg name="z_pos" default="0.0"/>
   <arg name="Yaw" default="0.000000"/>
   <arg name="world" default="$(find mymap)/src/small_1.world"/>
 
